@@ -28,4 +28,5 @@ Nope!. Cuz the bot uses barely to no system resources that may interact with the
     9. ***ALT+TAB*** to the Valorant_Farmer.exe program and press ***ENTER***.
 
 # Images of the program #
-I'll add the next time i play valorant. :)
+![picture alt](https://raw.githubusercontent.com/CipherKill/ValorantFarmer/main/screenshots/vfarmer.jpg "Screenshot1")
+I'll add more the next time i play valorant. :)
