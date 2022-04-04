@@ -1,6 +1,7 @@
 # Valorant Farmer #
 A simple program to automatically farm valorant points. I've tested multiple times and infact unlocked all my agents despite my busy schedule using this program. 
 Since it was useful to me, I believe it will also be useful to you and you can do other things while the bot does it's thing.
+![picture alt](https://raw.githubusercontent.com/CipherKill/ValorantFarmer/main/screenshots/vfarmer.jpg "Screenshot1")
 
 # But wait! Will using this suspend/ban my account? #
 Nope!. Cuz the bot uses barely to no system resources that may interact with the game (I know this sounds weird for a bot). Due to this nature, it won't be detected.
@@ -27,6 +28,4 @@ Nope!. Cuz the bot uses barely to no system resources that may interact with the
     8. Go back to the game and you ***click*** skip. Then ***align*** your mouse to the ***Play Again*** Button.
     9. ***ALT+TAB*** to the Valorant_Farmer.exe program and press ***ENTER***.
 
-# Images of the program #
-![picture alt](https://raw.githubusercontent.com/CipherKill/ValorantFarmer/main/screenshots/vfarmer.jpg "Screenshot1")
-I'll add more the next time i play valorant. :)
+## If you have any suggestions or issues please lemme know :)
