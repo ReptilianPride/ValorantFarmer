@@ -1,4 +1,4 @@
-# Valorant Farmer #
+# Valorant Farmer (Not Functional Anymore) #
 A simple program to automatically farm valorant points. I've tested multiple times and infact unlocked all my agents despite my busy schedule using this program. 
 Since it was useful to me, I believe it will also be useful to you and you can do other things while the bot does it's thing.
 
