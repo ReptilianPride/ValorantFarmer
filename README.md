@@ -1,11 +1,12 @@
+> [!CAUTION]
+> Program is not functional until further information. Could get potentially banned.
+
 # Valorant Farmer (Not Functional Anymore) #
 A simple program to automatically farm valorant points. I've tested multiple times and infact unlocked all my agents despite my busy schedule using this program. 
 Since it was useful to me, I believe it will also be useful to you and you can do other things while the bot does it's thing.
 
 <p align='center'><img src='https://raw.githubusercontent.com/CipherKill/ValorantFarmer/main/screenshots/vfarmer.jpg' width='700px'></img></p>
 
-# But wait! Will using this suspend/ban my account? #
-Nope!. Cuz the bot uses barely to no system resources that may interact with the game (I know this sounds weird for a bot). Due to this nature, it won't be detected.
 
 # How to use? #
 1. ### If using the .exe file(easy way): ###
